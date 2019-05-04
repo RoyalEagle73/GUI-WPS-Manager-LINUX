@@ -1,6 +1,8 @@
 # EXECUTABLE FILE TO SHOW ALL SAVED WIFI PASSWORDS ON TERMINAL
 
-## NOTE : This is the executable GUI version of my previus script 'WPS MANAGER (LINUX)' which worked the same but in console, for more reach out
+## NOTE : 
+
+This is the executable GUI version of my previus script 'WPS MANAGER (LINUX)' which worked the same but in console, for more, reach out
    [WPS MANAGER (LINUX)](https://github.com/RoyalEagle73/WPS-Manager-LINUX-)
 
 

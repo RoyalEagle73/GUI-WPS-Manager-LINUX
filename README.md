@@ -2,7 +2,7 @@
 
 ## NOTE : 
 
-This is the executable GUI version of my previus script 'WPS MANAGER (LINUX)' which worked the same but in console, for more, reach out
+This is the executable GUI version of my previous script 'WPS MANAGER (LINUX)' which works the same but in console, for more, reach out
    [WPS MANAGER (LINUX)](https://github.com/RoyalEagle73/WPS-Manager-LINUX-)
 
 

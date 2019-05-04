@@ -13,6 +13,8 @@ This is the executable GUI version of my previous script 'WPS MANAGER (LINUX)' w
   
   3)Use the following command:
     `sudo ./'WPS MANAGER'`
+     NOTE: If it fails to load, make it executable by ticking the option in properties of file.
+   
 
 ## SCREENSHOTS
   [Screenshots](https://github.com/RoyalEagle73/-GUI-WPS-Manager-LINUX-/wiki/SCREENSHOT)

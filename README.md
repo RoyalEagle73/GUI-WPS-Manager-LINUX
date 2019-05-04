@@ -12,6 +12,9 @@
   3)Use the following command:
     `sudo ./'WPS MANAGER'`
 
+## SCREENSHOTS
+  [Screenshots](https://github.com/RoyalEagle73/-GUI-WPS-Manager-LINUX-/wiki/SCREENSHOT)
+
 ## For Windows Version visit:
   https://github.com/chavarera/WSPManager
   
